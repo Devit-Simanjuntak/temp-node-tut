@@ -1,0 +1,6 @@
+Mathematic Topics that needed to be understand in order to learning Machine Learning:
+1. Linear Algebra
+2. Basic Calculus
+3. Matrices 
+4. Vectors
+5. Multi Dimensional Math
